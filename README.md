@@ -1,2 +1,3 @@
 # prova2pdm
-giovanni albino e cauã morais
+Giovanni Albino e Cauã Morais
+3 INF A
