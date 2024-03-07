@@ -86,44 +86,44 @@ let chamadaDeAlunos = [
     },
 ]
 [
-const nome "Matheus"
-console.log(chamada.indexOf(nome))
-const presenca "79, 60"
-console.log(chamada.indexOf(presenca))
-const nota "8.5, 6.5"
-console.log(chamada.indexOf(nota)),
+    const nome "Matheus"
+        console.log(chamada.indexOf(nome))
+    const presenca "79, 60"
+        console.log(chamada.indexOf(presenca))
+    const nota "8.5, 6.5"
+        console.log(chamada.indexOf(nota)),
 ]
 [
-const nome "Kayky"
-console.log(chamada.indexOf(nome)),
-const presenca "75, 90"
-console.log(chamada.indexOf(presenca))
-const nota "10, 10"
-console.log(chamada.indexOf(nota))
+    const nome "Kayky"
+        console.log(chamada.indexOf(nome)),
+    const presenca "75, 90"
+        console.log(chamada.indexOf(presenca))
+    const nota "10, 10"
+        console.log(chamada.indexOf(nota))
 ]
 [
-const nome "Ana"
-console.log(chamada.indexOf(nome))
-const presenca "100, 90"
-console.log(chamada.indexOf(presenca))
-const nota "10, 7.5"
-console.log(chamada.indexOf(nota))
+    const nome "Ana"
+        console.log(chamada.indexOf(nome))
+    const presenca "100, 90"
+        console.log(chamada.indexOf(presenca))
+    const nota "10, 7.5"
+        console.log(chamada.indexOf(nota))
 ]
 [
-const nome "Jorge"
-console.log(chamada.indexOf(nome))
-const presenca "100, 79"
-console.log(chamada.indexOf(presenca))
-const nota "10, 10"
-console.log(chamada.indexOf(nota))    
+    const nome "Jorge"
+        console.log(chamada.indexOf(nome))
+    const presenca "100, 79"
+        console.log(chamada.indexOf(presenca))
+    const nota "10, 10"
+        console.log(chamada.indexOf(nota))    
     ]
 [
     const nome "Richard"
-console.log(chamada.indexOf(nome))
-const presenca "74, 90"
-console.log(chamada.indexOf(presenca))
-const nota "10, 7"
-console.log(chamada.indexOf(nota))
+        console.log(chamada.indexOf(nome))
+    const presenca "74, 90"
+        console.log(chamada.indexOf(presenca))
+    const nota "10, 7"
+        console.log(chamada.indexOf(nota))
     ]
 [
     function avaliaAluno(materia) {
